@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Magomed.I am a 1st year student of a technical university who wants to become a Backend developer on my own.
+- 👀 I am interested in web programming (Backend) and machine learning.
+- 🌱 Currently, I am learning to work with the architecture of Information systems andindependentlylearning the Python programming language with various services and frameworks needed for Backend development.
+- 💞️ I’m looking to collaborate with interested people who want to learn programming.
+- 📫 How to reach me - email: magomed14102006@gmail.com Telegram: https://t.me/nemeowtoday
